@@ -8,8 +8,8 @@ Software are made available under an MIT license.
 
 The  license text listed below (describing both CC-BY and MIT licenses as 
 well as their usage in REPCONE) is re-used under a CC-BY license from
-The Turing Way and The Carpentries community materials.
-(Specifically from the [Reproducible Science Curriculum](https://github.com/Reproducible-Science-Curriculum/sharing-RR-Jupyter/blob/gh-pages/LICENSE.md)).
+The Turing Way and The Carpentries community materials
+(specifically from the [Reproducible Science Curriculum](https://github.com/Reproducible-Science-Curriculum/sharing-RR-Jupyter/blob/gh-pages/LICENSE.md)).
 
 ## Process documents and data
 
