@@ -1,15 +1,15 @@
 # REPCONE
-> ___Identifying and measuring the use of Reproducible Research Practices in Cognitive Computational Neuroscience___
+> ___Identifying and measuring the use of reproducible research practices in Cognitive Computational Neuroscience___
 
 ## :wave:  Welcome!
 We are glad to see you here! If you want to know more about this project scroll down this file, or jump to the following sections:
 
-* [What are we doing?](#what-are-we-doing)
-* [Who are we?](#who-are-we)
-* [What do we need?](#what-do-we-need)
-* [How can you get involved?](#get-involved)
-* [Get in touch](#contact-us)
-* [Find out more](#find-out-more)
+* [What are we doing?](#brain-what-are-we-doing)
+* [Who are we?](#sparkles-who-are-we)
+* [What do we need?](#wrench-what-do-we-need)
+* [How can you get involved?](#muscle-get-involved)
+* [Get in touch](#speaking_head-contact-us)
+* [Find out more](#mag_right-find-out-more)
 
 
 ## :brain: What are we doing?
@@ -30,13 +30,13 @@ This project is carried out in collaboration with [The Turing Way](https://githu
 
 
 ## :wrench: What do we need?
-**You** can help us by:
+__*You*__ can help us by:
 
 * Suggesting, adding or discussing content for our guidelines
 * Mantaining and/or improving the infrastructure of our online guide and report
 * Joining our efforts to quantify the use of reproducibility practices
 * Working in the development of our reproducibility templates
-* Assist in the organization of events
+* Assisting in the organization of events
 * Giving feedback on the ways we can improve and the things we did good!
 
 
@@ -56,7 +56,7 @@ You can also contact [Martina Vilas](https://github.com/martinagvilas) via email
 
 
 ## :mag_right: Find out more
-* Read the [roadmap]((https://github.com/martinagvilas/repra-ccn/projects)) of this project.
+* Read the [roadmap]((https://github.com/martinagvilas/repcone/projects)) of this project.
 * Access the [zotero library](https://www.zotero.org/groups/2801228/repcone/library) containing all of our reading material.
 
 
