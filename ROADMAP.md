@@ -9,14 +9,13 @@
 
 
 ## :pushpin: Milestone 1
+_*Goal*_: Document best practices for conducting reproducible research in CCN
 > We are keeping track of the progress made towards _milestone 1_ [here](https://github.com/martinagvilas/repcone/projects/1)
 
-_*Goal*_: Document best practices for conducting reproducible research in Cognitive Computational Neuroscience (CCN)
-
-### :hammer_and_pick: Task 1 (Minimum Viable Product)
+### :heavy_check_mark: Task 1 (Minimum Viable Product)
 _*Goal*_: Create a draft of the structure and some of the contents of the online guide of reproducible practices for CCN projects.
 
-#### :mag_right: Subtasks
+#### _Subtasks_
 1. Create Jupyter Book for hosting content (see [issue](https://github.com/martinagvilas/repcone/issues/1))
     - __Timeline__: 26-03-2021
     - __Resources__: Jupyter Book software
