@@ -56,7 +56,7 @@ You can also contact [Martina Vilas](https://github.com/martinagvilas) via email
 
 
 ## :mag_right: Find out more
-* Read the [roadmap](https://github.com/martinagvilas/repcone/projects) of this project.
+* Read the [roadmap](https://github.com/martinagvilas/repcone/ROADMAP.md) of this project.
 * Access the [zotero library](https://www.zotero.org/groups/2801228/repcone/library) containing all of our reading material.
 
 
