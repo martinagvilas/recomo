@@ -2,18 +2,20 @@
 
 ## :muscle: Achievement checklist
 - [ ] [Milestone 1](#pushpin-milestone-1): Document best practices for conducting reproducible research in Cognitive Computational Neuroscience (CCN)
-    - [ ] Task 1: Create a draft of the structure and some of the contents of the online guide of reproducible practices for CCN projects.
+    - [ ] [Task 1](#heavy_check_mark-task-1): Create a draft of the structure and some of the contents of the online guide of reproducible practices for CCN projects.
     - [ ] Task 2
-- [ ] Milestone 2
-- [ ] Milestone 3
+- [ ] [Milestone 2](#pushpin-milestone-2)
+- [ ] [Milestone 3](#pushpin-milestone-3)
 
-
+--- 
 ## :pushpin: Milestone 1
-_*Goal*_: Document best practices for conducting reproducible research in CCN
+__*Goal*__: Document best practices for conducting reproducible research in CCN
 > We are keeping track of the progress made towards _milestone 1_ [here](https://github.com/martinagvilas/repcone/projects/1)
 
-### :heavy_check_mark: Task 1 (Minimum Viable Product)
-_*Goal*_: Create a draft of the structure and some of the contents of the online guide of reproducible practices for CCN projects.
+### :heavy_check_mark: Task 1 
+__(Minimum Viable Product)__
+
+__*Goal*__: Create a draft of the structure and some of the contents of the online guide of reproducible practices for CCN projects.
 
 #### _Subtasks_
 1. Create Jupyter Book for hosting content (see [issue](https://github.com/martinagvilas/repcone/issues/1))
@@ -40,10 +42,13 @@ _*Goal*_: Create a draft of the structure and some of the contents of the online
 ### Task 2:
 (_coming soon_)
 
-## :pushpin: _milestone 2_: Analyze the use of reproducible practices in CCN projects
+--- 
+## :pushpin: Milestone 2
+__*Goal*__: Analyze the use of reproducible practices in CCN projects
 > We are keeping track of the progress made towards _milestone 2_ [here](https://github.com/martinagvilas/repcone/projects/5).
 
 (_coming soon_)
 
-## :pushpin: _milestone 3_: Facilitate practical tools for conducting reproducible research in CCN
+## :pushpin: Milestone 3
+__*Goal*__: Facilitate practical tools for conducting reproducible research in CCN
 (_coming soon_)
