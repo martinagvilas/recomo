@@ -1,5 +1,5 @@
 # REPCONE
-> ___Identifying and measuring the use of reproducible research practices in Cognitive Computational Neuroscience___
+> ___Identifying and measuring reproducible research practices in Cognitive Computational Neuroscience___
 
 ## :wave:  Welcome!
 We are glad to see you here! If you want to know more about this project scroll down this file, or jump to the following sections:
