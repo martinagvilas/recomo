@@ -2,10 +2,10 @@
 
 ## :muscle: Achievement checklist
 - [ ] [Milestone 1](#pushpin-milestone-1): Document best practices for conducting reproducible research in Cognitive Computational Neuroscience (CCN)
-    - [ ] [Task 1.1](#heavy_check_mark-task-1.1): Create a draft of the structure and some of the contents of the online guide of reproducible practices for CCN projects.
-    - [ ] [Task 1.2](#heavy_check_mark-task-1.2): Finish drafting online guide
-    - [ ] [Task 1.3](#heavy_check_mark-task-1.3): Organize online event and search for new contributors
-    - [ ] [Task 1.4](#heavy_check_mark-task-1.4): Present project in online event
+    - [ ] [Task 1.1](#heavy_check_mark-task-11): Create a draft of the structure and some of the contents of the online guide of reproducible practices for CCN projects.
+    - [ ] [Task 1.2](#heavy_check_mark-task-12): Finish drafting online guide
+    - [ ] [Task 1.3](#heavy_check_mark-task-13): Organize online event and search for new contributors
+    - [ ] [Task 1.4](#heavy_check_mark-task-14): Present project in online event
 - [ ] [Milestone 2](#pushpin-milestone-2)
 - [ ] [Milestone 3](#pushpin-milestone-3)
 
@@ -66,7 +66,7 @@ __*Goal*__: Organize online event and search for new contributors
     - __Timeline__: 10-05-2021
     - __Resources__: Community experience
     - __Who can do this__: help from anyone with experience organizing online events
-2. Organize (__details to come__)
+2. Organize (_ details coming soon_)
 
 ### :heavy_check_mark: Task 1.4
 __*Goal*__: Present project in online event
@@ -89,23 +89,22 @@ __(Minimum Viable Product)__
 __*Goal*__: Analyze the use of reproducible practices for one type of model in one conference
 
 #### _Subtasks_
- (_comming soon_)
 1. Identify the reproducible practices to be measured
 2. Select measurement tools
+
+ (_details coming soon_)
 
 ### :heavy_check_mark: Task 2.2
 __*Goal*__: Analyze the use of reproducible practices for all types of model in one conference
 
 #### _Subtasks_
  (_coming soon_)
-1. 
 
 ### :heavy_check_mark: Task 2.3
 __*Goal*__: Generalize the analysis beyond one conference
 
 #### _Subtasks_
  (_coming soon_)
-1. 
 
 --- 
 ## :pushpin: Milestone 3
