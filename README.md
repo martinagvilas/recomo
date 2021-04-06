@@ -20,9 +20,9 @@ We are glad to see you here! If you want to know more about this project scroll 
 - The majority of guides for reproducible research do not provide ready to use templates that facilitate the adoption of these practices.
 
 ### Our solution
-- Document online the best practices for conducting reproducible research in CCN, taking into account the needs of the different types of modeling projects.
-- Create a report quantifying the use of reproducible research practices in CCN projects.
-- Provide templates and other practical tools for conducting reproducible research in CCN.
+- Document online the best practices for conducting reproducible research in CCN, taking into account that different types of modeling approaches might require different reproducibility techniques.
+- Having identified these best practices, measure their use by past and current CCN projects. 
+- Develop templates and other practical tools for facilitating these reproducibility research practices.
 
 
 ## :sparkles: Who are we?
@@ -56,7 +56,7 @@ You can also contact [Martina Vilas](https://github.com/martinagvilas) via email
 
 
 ## :mag_right: Find out more
-* Read the [roadmap](https://github.com/martinagvilas/repcone/ROADMAP.md) of this project.
+* Read the [roadmap](../ROADMAP.md) of this project.
 * Access the [zotero library](https://www.zotero.org/groups/2801228/repcone/library) containing all of our reading material.
 
 
