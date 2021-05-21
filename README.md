@@ -1,6 +1,10 @@
 # REPCONE
 > ___Identifying and measuring reproducible research practices in Cognitive Computational Neuroscience___
 
+## :warning: Warning!
+This repository is outdated. Read [here](#our-solution) to find out what we 
+are doing next.
+
 ## :wave:  Welcome!
 We are glad to see you here! If you want to know more about this project scroll down this file, or jump to the following sections:
 
@@ -11,7 +15,6 @@ We are glad to see you here! If you want to know more about this project scroll 
 * [Get in touch](#speaking_head-contact-us)
 * [Find out more](#mag_right-find-out-more)
 
-
 ## :brain: What are we doing?
 
 ### The problem
@@ -20,10 +23,17 @@ We are glad to see you here! If you want to know more about this project scroll 
 - The majority of guides for reproducible research do not provide ready to use templates that facilitate the adoption of these practices.
 
 ### Our solution
-- Document online the best practices for conducting reproducible research in CCN, taking into account that different types of modeling approaches might require different reproducibility techniques.
-- Having identified these best practices, measure their use by past and current CCN projects. 
-- Develop templates and other practical tools for facilitating these reproducibility research practices.
+- ~~Document online the best practices for conducting reproducible research in CCN, taking into account that different types of modeling approaches might require different reproducibility techniques.~~
+- ~~Having identified these best practices, measure their use by past and current CCN projects.~~ 
+- ~~Develop templates and other practical tools for facilitating these reproducibility research practices.~~
 
+After the [OLS-3](https://openlifesci.org/ols-3) program, we have changed our goals to the following:
+
+- Add to The Turing Way](https://github.com/alan-turing-institute/the-turing-way) 
+content related to reproduciility practices for Machine Learning projects.
+- Develop templates and other practical tools (e.g. cookie cutter templates)
+for facilitating reproducibility  practices for CCN research projects.
+    - The repository hosting these practical tools will be added shortly!
 
 ## :sparkles: Who are we?
 This project is carried out in collaboration with [The Turing Way](https://github.com/alan-turing-institute/the-turing-way) community. 
